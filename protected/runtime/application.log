@@ -1,0 +1,587 @@
+2016/01/13 20:45:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/index.php?r=site/index
+---
+2016/01/13 20:45:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/index.php?r=site/index
+---
+2016/01/13 20:45:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/index.php?r=site/index
+---
+2016/01/13 20:45:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:45:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:45:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:45:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:45:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:45:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:45:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:45:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:45:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:47:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/13 20:47:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/13 20:47:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/13 20:47:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:47:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:47:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:47:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:47:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:47:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:47:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/contact
+---
+2016/01/13 20:47:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/contact
+---
+2016/01/13 20:47:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/contact
+---
+2016/01/13 20:47:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 20:47:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/screen.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:47:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/print.css
+HTTP_REFERER=http://chelgu/site/index
+---
+2016/01/13 20:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/footer-bg.png".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('images/footer-b...')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/footer-bg.png
+HTTP_REFERER=http://chelgu/css/default.css
+---
+2016/01/13 20:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin
+HTTP_REFERER=http://chelgu/site/page?view=about
+---
+2016/01/13 20:49:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin
+HTTP_REFERER=http://chelgu/
+---
+2016/01/13 21:17:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/footer-bg.png".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('images/footer-b...')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/footer-bg.png
+HTTP_REFERER=http://chelgu/css/default.css
+---
+2016/01/14 13:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "image/gmail.png".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('image/gmail.png')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/gmail.png
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/14 13:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "image/twitter.png".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('image/twitter.p...')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/twitter.png
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/14 13:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "image/VK.png".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('image/VK.png')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/VK.png
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/14 13:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "image/facebook.png".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('image/facebook....')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/facebook.png
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/14 13:01:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "image/VK.png".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('image/VK.png')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/VK.png
+---
+2016/01/14 14:34:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ie.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/ie.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ie.css
+HTTP_REFERER=http://chelgu/
+---
+2016/01/14 14:34:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ie.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/ie.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ie.css
+HTTP_REFERER=http://chelgu/site/login
+---
+2016/01/14 14:35:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/ie.css".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('css/ie.css')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/ie.css
+HTTP_REFERER=http://chelgu/admin
+---
+2016/01/14 16:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "user".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/user
+---
+2016/01/14 16:01:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "users".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('users')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/users
+---
+2016/01/14 16:01:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "user".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/user
+---
+2016/01/14 16:02:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "User".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('User')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/User
+---
+2016/01/14 16:02:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "user".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/user
+---
+2016/01/14 18:14:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "user".' in Z:\home\chelgu\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\chelgu\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user')
+#1 Z:\home\chelgu\www\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 Z:\home\chelgu\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/user
+---
